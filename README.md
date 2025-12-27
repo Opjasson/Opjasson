@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Node js, express and django**
 
-- 📫 How to reach me **azmitheusos333@gmail.com**
+- 📫 How to reach me **azmighazya@gmail.com**
 
 - ⚡ Fun fact **i think i am so smart and perfectionist**
 
