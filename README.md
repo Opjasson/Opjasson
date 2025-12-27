@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Azmi ghazy asyrof</h1>
 <h3 align="center">I'm a passionate Full-Stack Web Developer with a strong foundation in building dynamic and scalable web applications. I enjoy working with both frontend and backend technologies, turning ideas into reality with clean, efficient code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=opjasson&label=Profile%20views&color=0e75b6&style=flat" alt="opjasson" /> </p>
 
 
 
